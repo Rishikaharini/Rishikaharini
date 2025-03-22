@@ -1,4 +1,4 @@
-# Hi there, I'm [Rishikaharini varanasi] 👋
+# Hi there, I'm Rishika Harini varanasi 👋
 
 ## 🚀 About Me
 I'm a passionate *Data Analyst* with experience in *Excel, SQL, Power BI, Tableau, and Python for data analysis*. I love working with data, uncovering insights, and building visualizations that drive business decisions.
